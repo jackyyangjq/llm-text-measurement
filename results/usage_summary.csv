@@ -1,0 +1,6 @@
+run,model,pass,calls,prompt_tokens,completion_tokens,median_latency_s
+controls,gpt-5.5-2026-04-24,batch,6,4298,2125,8.844999999999999
+cross,claude-sonnet-5,batch,30,59738,93027,32.65
+main,gpt-5.5-2026-04-24,batch,100,80549,255994,40.105000000000004
+main,gpt-5.5-2026-04-24,second pass,28,20500,12293,9.89
+rerun,gpt-5.5-2026-04-24,batch,20,15697,52521,44.425

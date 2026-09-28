@@ -1,0 +1,141 @@
+{
+ "grounding": {
+  "reviews": 998,
+  "comments_returned": 4360,
+  "comments_kept": 4360,
+  "evidence_not_in_text": 0,
+  "schema_errors": 0,
+  "grounded_share": 1.0,
+  "second_pass": 28
+ },
+ "reviewer_truth": {
+  "comments": 4355,
+  "accuracy": 0.9458094144661309,
+  "accuracy_ci": [
+   0.939150401836969,
+   0.9522388059701492
+  ],
+  "kappa": 0.8883412916245865,
+  "per_aspect": {
+   "cleanliness": {
+    "mean": 0.9651162790697675,
+    "size": 258
+   },
+   "facilities": {
+    "mean": 0.9702233250620348,
+    "size": 403
+   },
+   "food": {
+    "mean": 0.9275653923541247,
+    "size": 497
+   },
+   "location": {
+    "mean": 0.9546142208774584,
+    "size": 661
+   },
+   "noise": {
+    "mean": 0.9459459459459459,
+    "size": 185
+   },
+   "room": {
+    "mean": 0.9490968801313628,
+    "size": 1218
+   },
+   "staff": {
+    "mean": 0.9380116959064327,
+    "size": 855
+   },
+   "value": {
+    "mean": 0.9136690647482014,
+    "size": 278
+   }
+  }
+ },
+ "overall_vs_score": {
+  "spearman": 0.6248938498648735,
+  "mean_score": {
+   "mixed": 8.1,
+   "negative": 5.82,
+   "positive": 9.44
+  },
+  "counts": {
+   "mixed": 540,
+   "positive": 327,
+   "negative": 131
+  }
+ },
+ "rerun": {
+  "reviews": 200,
+  "alpha_mentions": 0.9562285039027273,
+  "alpha_mentions_ci": [
+   0.9396694647948642,
+   0.9712088755897171
+  ],
+  "alpha_polarity": 0.9755674339340621,
+  "alpha_polarity_ci": [
+   0.9566020147261619,
+   0.990747844654146
+  ],
+  "alpha_overall": 0.8333003496272842,
+  "identical_label_sets": 0.83,
+  "per_aspect_alpha": {
+   "location": 0.9900187617260788,
+   "room": 0.9688921229761688,
+   "cleanliness": 0.9871186440677966,
+   "staff": 0.9898398309184895,
+   "food": 0.8859377842459524,
+   "value": 0.9371039440083231,
+   "noise": 1.0,
+   "facilities": 0.8744529305758174
+  }
+ },
+ "cross": {
+  "reviews": 300,
+  "alpha_mentions": 0.9312932520736883,
+  "alpha_mentions_ci": [
+   0.9142029091113983,
+   0.9480027588479749
+  ],
+  "alpha_polarity": 0.9397344242614334,
+  "alpha_polarity_ci": [
+   0.916739962201749,
+   0.9617612871261009
+  ],
+  "alpha_overall": 0.8517721856321621,
+  "identical_label_sets": 0.7433333333333333,
+  "per_aspect_alpha": {
+   "location": 0.9800331114790164,
+   "room": 0.97005,
+   "cleanliness": 0.941178396072013,
+   "staff": 0.9597157460545194,
+   "food": 0.9082414215686274,
+   "value": 0.8545002709318186,
+   "noise": 0.9631694369863294,
+   "facilities": 0.7632056053108685
+  }
+ },
+ "controls": {
+  "texts": 60,
+  "texts_with_any_comment": 0,
+  "comments": 0
+ },
+ "substitutes_macro_f1": {
+  "dictionary": 0.8176803711958074,
+  "student": 0.7681207649227385
+ },
+ "aspect_shares": {
+  "location": 0.475,
+  "room": 0.641,
+  "cleanliness": 0.224,
+  "staff": 0.613,
+  "food": 0.363,
+  "value": 0.216,
+  "noise": 0.152,
+  "facilities": 0.311
+ },
+ "tokens": {
+  "prompt": 180782,
+  "completion": 415960,
+  "calls": 184
+ }
+}

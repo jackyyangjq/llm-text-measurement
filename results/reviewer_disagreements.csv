@@ -1,0 +1,237 @@
+review_id,aspect,model,reviewer,evidence
+r0020,food,positive,negative,The food was good
+r0023,location,positive,negative,location is good for some
+r0026,staff,positive,negative,bar staff were more than apologetic
+r0002,room,positive,negative,higher floor which was much better
+r0003,staff,positive,negative,The hotel s response was outstanding
+r0003,value,positive,negative,4pm check out for free
+r0007,room,positive,negative,although comfortable
+r0007,room,positive,negative,have nice amenities
+r0009,room,positive,negative,make the rooms comfortable
+r0009,staff,negative,positive,Staff at breakfast were indifferent
+r0032,staff,positive,negative,very helpful and efficient
+r0038,food,positive,negative,the excellent breakfast
+r0039,staff,positive,negative,quickly fixed it
+r0019,staff,positive,negative,Staff were reasonably helpful
+r0061,value,positive,negative,worth it
+r0052,food,positive,negative,the food was good
+r0059,value,positive,negative,free internet
+r0040,staff,positive,negative,Manger very helpful and gave me extra lights
+r0045,staff,positive,negative,young lady at the desk was very nice
+r0045,cleanliness,positive,negative,rooms get cleaned daily
+r0049,location,negative,positive,away from the city centre
+r0115,food,negative,positive,could be better
+r0119,cleanliness,positive,negative,tidiness of the hotel
+r0081,staff,positive,negative,gave us free drop off
+r0083,food,negative,positive,space was a bit of a congested
+r0084,staff,positive,negative,staff were very nice
+r0093,location,positive,negative,Location and connectivity
+r0105,noise,positive,negative,NOT a problem in the room
+r0122,food,positive,negative,breakfast was rich
+r0124,room,negative,positive,rooms were not warming up
+r0124,room,negative,positive,room phones were not working
+r0126,staff,positive,negative,repaired the first time quickly
+r0129,facilities,negative,positive,dated feel
+r0130,value,negative,positive,Parking on site 16 eur
+r0136,location,positive,negative,bus lines running very close by though
+r0138,food,negative,positive,What croissants
+r0139,room,positive,negative,The modern wing is the place to say
+r0170,food,negative,positive,same menu everyday
+r0170,staff,negative,positive,Serving ladies not so friendly
+r0170,room,negative,positive,rooms with low ceiling
+r0190,room,positive,negative,rooms were very comfortable in size
+r0190,room,negative,positive,beds were quite uncomfortable and small
+r0200,location,negative,positive,a little bit out of the middle of the city
+r0208,food,positive,negative,restaurant food and service was consistently great
+r0208,value,positive,negative,good value for money
+r0181,location,positive,negative,good quality restaurants nearby
+r0186,value,negative,positive,had to pay 20 pounds for breakfast
+r0188,staff,positive,negative,Check in was reasonably quick
+r0188,cleanliness,positive,negative,Bathroom was very clean
+r0210,location,positive,negative,near the start and finish line
+r0256,value,negative,positive,price is a little excessive
+r0256,room,negative,positive,Room was a little small and compact
+r0242,staff,positive,negative,Staff were very friendly
+r0248,room,positive,negative,not bad for London standards
+r0262,staff,negative,positive,staff at breakfast service seemed very unhappy
+r0262,staff,negative,positive,they were late
+r0262,food,negative,positive,We waited for 20 minutes for a lukewarm coffee
+r0262,food,negative,positive,Poor selection of breakfast items
+r0262,food,negative,positive,poor arrangements of breakfast tables and chairs
+r0262,value,positive,negative,provided for free
+r0263,room,positive,negative,nice to have so many options
+r0265,location,positive,negative,close to my meeting point
+r0268,staff,positive,negative,We enquired about this and was Rectified
+r0220,noise,negative,positive,street noise and live music
+r0221,location,positive,negative,metro station nearby
+r0222,room,positive,negative,everything you could want is provided
+r0270,location,positive,negative,metro was easy and very close
+r0276,location,positive,negative,only a 10 min walk to the Dom
+r0278,room,negative,positive,Standard room is small
+r0279,staff,positive,negative,Everyone went out of their way
+r0300,location,positive,negative,close proximity to Barca stadium
+r0301,staff,positive,negative,efficiently moved across to another room
+r0303,food,positive,negative,bar is very cool
+r0303,location,positive,negative,area is quieter and more relaxing
+r0303,noise,positive,negative,area is quieter and more relaxing
+r0303,location,positive,negative,tram is a mere 10 min walk away
+r0303,location,positive,negative,easy to get to the attractions
+r0280,value,positive,negative,worth the extra money
+r0310,staff,negative,positive,concierge did give us incorrect information
+r0311,staff,positive,negative,Staff very helpful in bringing one up
+r0314,location,positive,negative,well located
+r0314,facilities,negative,positive,Old style hotel in need of refurbishment
+r0314,staff,negative,positive,unwelcoming staff
+r0317,room,negative,positive,issues with the hot water here
+r0318,room,positive,negative,otherwise very good
+r0319,staff,positive,negative,fantastic waiter
+r0319,food,positive,negative,presented complimentary wine in our room
+r0292,room,positive,negative,Apartment in as modern
+r0293,value,negative,positive,breakfast was expensive
+r0321,food,positive,negative,the food was delicious
+r0328,value,positive,negative,for the price and location it was perfect
+r0328,location,positive,negative,price and location it was perfect
+r0331,room,negative,positive,The room was small
+r0334,cleanliness,negative,positive,a little dusty
+r0342,location,positive,negative,not too far from the metro
+r0342,staff,positive,negative,wished her happy birthday on check in
+r0342,food,negative,positive,breakfast certainly not worth paying extra for
+r0342,value,negative,positive,breakfast certainly not worth paying extra for
+r0348,cleanliness,positive,negative,the room itself was clean
+r0348,noise,negative,positive,noise from the highway close by was present
+r0348,location,negative,positive,A bit far out of town
+r0351,value,negative,positive,Place is a rip off
+r0351,facilities,negative,positive,The rest is outdated badly
+r0354,cleanliness,positive,negative,room that to be fair was tidy
+r0357,food,positive,negative,otherwise good choice
+r0360,facilities,positive,negative,Copy fax and business facilities
+r0365,location,negative,positive,not so nice neighbourhood
+r0393,staff,positive,negative,staff were most helpful
+r0393,staff,positive,negative,moved us to a better room
+r0397,location,positive,negative,the tram is only a 2 minute walk
+r0397,location,positive,negative,only 3 stops to Amsterdam Central Station
+r0397,room,positive,negative,air conditioning was working great
+r0398,room,negative,positive,Room and bath small
+r0372,value,negative,positive,paid nearly three hundred for a night
+r0372,staff,negative,positive,got poor service
+r0372,staff,negative,positive,No one knew what they were doing
+r0376,room,positive,negative,room was very nice
+r0403,facilities,positive,negative,offered free use of sister gym
+r0423,room,positive,negative,bathroom was top draw
+r0435,room,positive,negative,beatiful sink in the room
+r0438,room,negative,positive,not renovated rooms
+r0438,facilities,negative,positive,Old building
+r0415,location,positive,negative,we just like this hotel and its location
+r0417,room,positive,negative,upgraded us to a proper double room
+r0482,room,negative,positive,The room was small
+r0486,staff,positive,negative,immediately tried to find a solution
+r0462,room,negative,positive,quite a small space
+r0462,noise,negative,positive,noise from building work
+r0462,staff,positive,negative,Once reported to reception this stopped
+r0466,value,positive,negative,good price quality ratio
+r0499,staff,positive,negative,staff was helpful
+r0500,room,positive,negative,View from the room
+r0500,staff,positive,negative,Staffs friendly and helpful
+r0500,food,positive,negative,Great bars
+r0501,room,negative,positive,quite small
+r0503,staff,positive,negative,The luggage storage staff
+r0506,food,positive,negative,good old decor
+r0513,food,positive,negative,very good bar snacks soups burgers salads
+r0513,value,positive,negative,good value for central Vienna
+r0514,value,negative,positive,Breakfast was expensive
+r0515,staff,positive,negative,Reception generally very friendly
+r0519,room,negative,positive,Room was very small
+r0519,room,negative,positive,was not properly sealed
+r0519,room,negative,positive,Smoke from the other properties lifted into our room
+r0519,cleanliness,negative,positive,room was stinking of smoke
+r0519,staff,negative,positive,no one could even take the time to email me back
+r0527,staff,positive,negative,staff were helpful in moving us
+r0528,room,negative,positive,Room was small
+r0528,room,positive,negative,it had all I needed
+r0529,room,negative,positive,Size of room
+r0530,staff,positive,negative,Staff is polite though
+r0535,facilities,positive,negative,Big areas in the building
+r0536,facilities,positive,negative,rest of the hotel is fine
+r0537,room,positive,negative,stargazer room which was very original
+r0539,room,negative,positive,Room very small
+r0539,room,negative,positive,no view
+r0539,staff,negative,positive,Man on Reception quit rude
+r0553,room,positive,negative,was a comfortable stay
+r0553,room,negative,positive,bed mattress was poor
+r0553,food,negative,positive,restaurants all closed at 11 30
+r0562,food,positive,negative,breakfast was lovely the next day
+r0562,staff,positive,negative,staff at the desk sorted our complaint out
+r0568,noise,negative,positive,however noisy
+r0568,room,positive,negative,moved us to a very good room
+r0568,noise,positive,negative,quieter side
+r0568,room,positive,negative,we sleep very well
+r0542,staff,positive,negative,charming staff
+r0546,location,positive,negative,around the hotel wide possibilities
+r0548,value,positive,negative,cost effective solution overall
+r0548,facilities,positive,negative,Parking is on site and quite convenient though
+r0570,location,positive,negative,well connected with the metro
+r0574,room,negative,positive,Small rooms
+r0574,food,negative,positive,Continental breakfast nothing special
+r0592,value,negative,positive,too expensive
+r0592,staff,positive,negative,management did listen to our complaints
+r0595,room,negative,positive,The bed was really uncomfortable
+r0595,room,negative,positive,the rooms were shabby
+r0595,room,negative,positive,in need of updating
+r0595,room,negative,positive,the decor was very tired
+r0597,staff,negative,positive,The service was terrible
+r0597,staff,negative,positive,The staff were rude
+r0618,location,positive,negative,close to Paddington Train station
+r0618,room,negative,positive,The room is small
+r0630,room,positive,negative,bathroom was lovely
+r0633,room,positive,negative,Our room had three beds which was nice
+r0636,room,positive,negative,room was nice
+r0621,food,positive,negative,Very good breakfast
+r0621,room,negative,positive,small rooms
+r0626,facilities,positive,negative,plenty of space outside
+r0645,noise,negative,positive,too close to the lift
+r0645,noise,negative,positive,could hear it going up and down
+r0656,food,positive,negative,breakfast good
+r0661,food,positive,negative,good quality
+r0662,food,positive,negative,rest of the breakfast was lovely
+r0662,staff,positive,negative,service was excellent
+r0667,noise,positive,negative,canal Side would be quiet
+r0671,room,positive,negative,but acceptable
+r0673,location,positive,negative,located near milan
+r0677,room,negative,positive,Small compact rooms
+r0691,room,negative,positive,small size of the bedroom
+r0697,food,negative,positive,breakfast had luttle choice
+r0697,food,negative,positive,ran out of the things
+r0697,staff,negative,positive,waiters were reluctant to do anything
+r0697,staff,negative,positive,reception they didnt do much either
+r0680,staff,positive,negative,offered us a different room
+r0683,food,negative,positive,could be better
+r0719,value,negative,positive,breakfast was a bit pricey
+r0760,facilities,negative,positive,swimming pool gym something for kids
+r0760,food,negative,positive,breakfast need to be enhansed
+r0760,food,negative,positive,should have more options and varities
+r0785,room,negative,positive,Bugs in our room
+r0785,cleanliness,negative,positive,Bugs in our room
+r0785,facilities,negative,positive,Bad Wifi
+r0787,staff,negative,positive,night staff was not
+r0801,value,negative,positive,but the price
+r0806,location,negative,positive,hotel a littele far from center
+r0796,food,negative,positive,Not tremendous quantity of choice
+r0841,food,negative,positive,breakfast was a bit crowded
+r0846,room,negative,positive,My broken fridge
+r0878,value,negative,positive,worth the extra pay
+r0878,value,negative,positive,breakfast a bit expensive
+r0892,room,negative,positive,Room compact
+r0860,staff,negative,positive,rooms were late
+r0880,value,negative,positive,Wish we could afford it more often
+r0912,room,positive,negative,Room was ok
+r0933,location,positive,negative,the location is good
+r0901,staff,positive,negative,very nice and helpful
+r0908,staff,positive,negative,other staff were really friendly
+r0909,location,positive,negative,position of the hotel is good
+r0921,room,positive,negative,decor rooms bathrooms lighting cleanliness access
+r0921,cleanliness,positive,negative,decor rooms bathrooms lighting cleanliness access
+r0943,staff,positive,negative,quite nice and polite
+r0970,food,positive,negative,Breakfast plenty of items
+r0980,food,positive,negative,other 3 breakfast was excellent
+r0990,room,positive,negative,extra large bed
+r0997,staff,positive,negative,initially offered to refund
