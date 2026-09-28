@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![CI](https://github.com/jackieyangjq/llm-text-measurement/actions/workflows/ci.yml/badge.svg)](https://github.com/jackieyangjq/llm-text-measurement/actions/workflows/ci.yml)
+[![CI](https://github.com/jackyyangjq/llm-text-measurement/actions/workflows/ci.yml/badge.svg)](https://github.com/jackyyangjq/llm-text-measurement/actions/workflows/ci.yml)
 
 How I use large language models to turn text into data for research, and how I check that the measurement is right. The demonstration labels 998 public hotel reviews: which aspects of the stay each guest comments on (location, room, cleanliness, staff, food, value, noise, facilities), whether each comment is positive or negative, and a verbatim quote as evidence for every label. Then it tests the labels six ways.
 
@@ -62,7 +62,7 @@ Design choices, and why:
 |---|---|
 | Evidence-grounded labelling, validation against human coding, repeat runs and a second model | PhD research on self-service technology in hotels, using guest reviews (in preparation) |
 | Confidence-based second pass with retrieved examples | How listed firms describe new technology in their disclosures (in preparation) |
-| Aspect-level sentiment from an LLM, aggregated into daily indices | Online sentiment about a destination in an Asian city and visitor arrivals (under review, co-author); the time-series side is in [applied-stats-econometrics-toolkit](https://github.com/jackieyangjq/applied-stats-econometrics-toolkit) |
+| Aspect-level sentiment from an LLM, aggregated into daily indices | Online sentiment about a destination in an Asian city and visitor arrivals (under review, co-author); the time-series side is in [applied-stats-econometrics-toolkit](https://github.com/jackyyangjq/applied-stats-econometrics-toolkit) |
 
 ## How to run
 

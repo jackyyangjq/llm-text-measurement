@@ -2,7 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-[![CI](https://github.com/jackieyangjq/llm-text-measurement/actions/workflows/ci.yml/badge.svg)](https://github.com/jackieyangjq/llm-text-measurement/actions/workflows/ci.yml)
+[![CI](https://github.com/jackyyangjq/llm-text-measurement/actions/workflows/ci.yml/badge.svg)](https://github.com/jackyyangjq/llm-text-measurement/actions/workflows/ci.yml)
 
 这里演示我在研究中如何用大语言模型把文本变成数据，以及如何检验这种测量是否可靠。演示对象是 998 条公开的酒店评论：让模型找出每位住客评论了住宿的哪些方面（位置、房间、清洁、员工、餐饮、性价比、噪音、设施），判断每条评论是正面还是负面，并为每个标签逐字引用原文作证据。然后从六个角度检验这些标签。
 
@@ -62,7 +62,7 @@ flowchart TD
 |---|---|
 | 带证据的标注、与人工编码的一致性检验、重复运行和换模型对照 | 关于酒店自助服务技术的博士研究，使用住客评论（准备中） |
 | 基于置信度、附检索示例的第二轮复核 | 上市公司如何在披露中描述新技术（准备中） |
-| 大模型的方面级情感标签，汇总为日度指数 | 亚洲某城市的目的地网络情绪与游客到访（审稿中，合作者）；时间序列部分见 [applied-stats-econometrics-toolkit](https://github.com/jackieyangjq/applied-stats-econometrics-toolkit) |
+| 大模型的方面级情感标签，汇总为日度指数 | 亚洲某城市的目的地网络情绪与游客到访（审稿中，合作者）；时间序列部分见 [applied-stats-econometrics-toolkit](https://github.com/jackyyangjq/applied-stats-econometrics-toolkit) |
 
 ## 运行
 
